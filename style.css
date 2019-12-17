@@ -1,0 +1,17 @@
+/* 
+Theme Name: Analytica Child
+Template: analytica
+Version: 1.0.0
+ */
+
+body {
+  font-size: 16px;
+}
+
+body .btn {
+  font-size: 16px;
+}
+
+body .site {
+  min-height: 600px;
+}
